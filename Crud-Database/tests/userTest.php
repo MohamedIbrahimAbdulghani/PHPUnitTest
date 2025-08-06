@@ -14,6 +14,9 @@ class userTest extends TestCase {
         $this->object = new user();
     }
     public function test_insert_new_user() {
-        $this->assertTrue($this->object->add('test email', 'test password'));
+        $this->assertTrue($this->object->add('test name', 'test email'));
+    }
+    public function test_update_user() {
+        $this->assertTrue($this->object->update(11, 'test update name', 'test update email'));
     }
 }

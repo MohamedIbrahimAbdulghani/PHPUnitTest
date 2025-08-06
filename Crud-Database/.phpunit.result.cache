@@ -1,1 +1,1 @@
-{"version":1,"defects":{"userTest::test_insert_new_user":8},"times":{"userTest::test_insert_new_user":0.393}}
+{"version":1,"defects":{"userTest::test_insert_new_user":8,"userTest::test_update_user":7},"times":{"userTest::test_insert_new_user":0.031,"userTest::test_update_user":0.046}}
