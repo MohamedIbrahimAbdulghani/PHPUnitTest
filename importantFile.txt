@@ -1,0 +1,2 @@
+- to install phpunit in your project ( composer require --dev phpunit/phpunit )
+- to run or to test your testing (./vendor/bin/phpunit)
