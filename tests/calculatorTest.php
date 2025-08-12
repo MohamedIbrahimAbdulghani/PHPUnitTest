@@ -26,4 +26,8 @@ class calculatorTest extends TestCase {
     public function test_assert_div_calc() {
         $this->assertEquals($this->myObject->div(100, 10), 10);
     }
+    // this function to make test about models function in calculator
+    public function test_assert_models_calc() {
+        $this->assertEquals($this->myObject->models(11, 2), 1);
+    }
 }

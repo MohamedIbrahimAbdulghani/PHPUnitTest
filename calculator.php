@@ -14,5 +14,7 @@ class calculator {
     public function div($a, $b) {
         return $a / $b;
     }
-    
+    public function models($x, $y) {
+        return $x % $y;
+    }
 }

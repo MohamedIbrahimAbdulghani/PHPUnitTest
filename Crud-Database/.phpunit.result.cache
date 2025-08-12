@@ -1,1 +1,1 @@
-{"version":1,"defects":{"userTest::test_insert_new_user":8,"userTest::test_update_user":7,"userTest::test_assert_models_calc":8},"times":{"userTest::test_insert_new_user":0.132,"userTest::test_update_user":0.045,"userTest::test_assert_models_calc":0.008}}
+{"version":1,"defects":{"userTest::test_insert_new_user":8,"userTest::test_update_user":7,"userTest::test_assert_models_calc":8},"times":{"userTest::test_insert_new_user":0.449,"userTest::test_update_user":0.175,"userTest::test_assert_models_calc":0.008}}
