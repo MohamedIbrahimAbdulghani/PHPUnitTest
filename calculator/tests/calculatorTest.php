@@ -11,7 +11,6 @@ class calculatorTest extends TestCase {
         $this->myObject = new calculator();
     }
     // this function to make test about add function in calculator
-    
     // use Annotations Group
     /**
      * @group baseFunction
